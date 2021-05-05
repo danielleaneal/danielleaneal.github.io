@@ -9,10 +9,12 @@ are pieces which look pretty and sound ugly, or sound pretty and look silly. I j
 there were audio and visuals in this project, so I combined a few tutorials to create an audio-visual
 experience for users. 
 
+[Find the Sketch Here](https://danielleaneal.github.io/Creative_Project_3/CP3/index.html)
+
 I began with the example "Hello P5: Song," which can be accessed at:
 https://editor.p5js.org/p5/sketches/Hello_P5:_song
 
-##Documentation
+## Documentation
 
 Documentation for this project can be accessed my Github Pages Repository, at the following link:
 https://github.com/danielleaneal/danielleaneal.github.io
