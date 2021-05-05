@@ -9,6 +9,9 @@ are pieces which look pretty and sound ugly, or sound pretty and look silly. I j
 there were audio and visuals in this project, so I combined a few tutorials to create an audio-visual
 experience for users. 
 
+I began with the example "Hello P5: Song," which can be accessed at:
+https://editor.p5js.org/p5/sketches/Hello_P5:_song
+
 
 
 ### The Code
