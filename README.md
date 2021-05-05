@@ -22,7 +22,7 @@ combined a few tutorials to create an audio-visualexperience for users.
 
 [Original Example](https://editor.p5js.org/p5/sketches/Hello_P5:_song)
 
-[GitHub Repository for the Project](
+[GitHub Repository for the Project](https://github.com/danielleaneal/Play-the-Rainbow)
 
 ## Documentation
 
