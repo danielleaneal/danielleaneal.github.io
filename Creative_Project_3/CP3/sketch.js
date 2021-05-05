@@ -64,7 +64,7 @@ function setup() {
 function playNote(note, duration) {
   osc.freq(midiToFreq(note));
   // Fade it in
-  osc.fade(0.5,0.2);
+  osc.fade(0.5,1);
 
   if (duration) {
     setTimeout(function() {
