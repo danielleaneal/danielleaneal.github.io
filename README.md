@@ -6,7 +6,8 @@ notes, but they take on more than that when they're associated with a color. You
 music in the traditional sense (sound based goals) or you could play music in a non-traditional way, 
 focusing on the aesthetics of the colors that are displaying as you're playing the music. Maybe there 
 are pieces which look pretty and sound ugly, or sound pretty and look silly. I just wanted to make sure
-there were audio and visuals in this project. 
+there were audio and visuals in this project, so I combined a few tutorials to create an audio-visual
+experience for users. 
 
 
 
