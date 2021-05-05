@@ -1,9 +1,10 @@
-## Welcome to my Technical Programming Projects Page
+## Technical Programming Page - Danielle A. Neal
 
 This page will serve as a container for some of the programming projects I created over the course
 of my second year in the Digital Media Masters program at UCF. Along with a brief description of
 each project, there are links to each GitHub repository, where you can view the source code and see
-further documentation. 
+further documentation. If you'd like to get to know me better, visit [this link](danielleneal.weebly.com) 
+to check out my online portfolio. 
 
 ## Play the Rainbow
 I chose to make a audio/visual Processing Sketch where you play a song that randomly shows you colors 
