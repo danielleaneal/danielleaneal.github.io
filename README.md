@@ -12,7 +12,8 @@ and plays sustained sound. I adapted this project from a p5.js example sketch, "
 In adding random colors that flicker as you play the notes and longer, sustained tones, I thought users
 could play music as much as they could play color, adding a synesthetic feature to the original example
 sketch. I also changed how long the tones took to fade out, and how long the pitches were sustained, 
-giving more lyricality to the user who is creating their musical experience. The notes are just musical 
+giving more lyricality to the user who is creating their musical experience.I also added an autoplay, and
+changed the original song. The notes are just musical 
 notes, but they take on more than that when they're associated with a flickering color. You could either
 play music in the traditional sense (sound based goals), or you could play music in a non-traditional way, 
 focusing on the aesthetics of the colors that are displaying as you're playing the music. This sketch
