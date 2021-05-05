@@ -22,7 +22,10 @@ combined a few tutorials to create an audio-visualexperience for users.
 
 [Original Example](https://editor.p5js.org/p5/sketches/Hello_P5:_song)
 
-[GitHub Repository for the Project](https://github.com/danielleaneal/Play-the-Rainbow)
+[GitHub Repository for the Project](https://github.com/danielleaneal/Play-the-Rainbow) 
+
+# Video Documentation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Rol6LgS0m0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Sweet Emotions
 
@@ -42,8 +45,11 @@ and I hope the experience is enjoyable.
 
 ### The Vagabond Bible
 
+To create the Vagabond Bible, I used Markovify to blend together 2 tests - a book of the Bible (Ecclesiastes)
+and a self-published, self-help novel I found online. It was my hope to create a sort of weird, in-between
+religious text with the help of computer programming that would potentially comment on the ways in which 
+we as humans seek to understand our life and our place in the world. 
+
+[Read Project Documentation Here](https://github.com/ucf-student/Danielle-Neal-Creative-Proj-1)
 
 
-### The Documentation
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Rol6LgS0m0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
