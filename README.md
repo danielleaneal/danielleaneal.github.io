@@ -12,6 +12,10 @@ experience for users.
 I began with the example "Hello P5: Song," which can be accessed at:
 https://editor.p5js.org/p5/sketches/Hello_P5:_song
 
+##Documentation
+
+Documentation for this project can be accessed my Github Pages Repository, at the following link:
+https://github.com/danielleaneal/danielleaneal.github.io
 
 
 ### The Code
